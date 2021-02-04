@@ -2,7 +2,7 @@
 
 GitHub Repository URL : https://github.com/RaihanAkter03/Online-Offline-Budget-Trackers
 
-Deplyed App URL : 
+Deplyed App URL : https://guarded-journey-05870.herokuapp.com/
 
 ![GNU License](https://img.shields.io/badge/license-GNU-green)
 
