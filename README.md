@@ -2,7 +2,7 @@
 
 GitHub Repository URL : https://github.com/RaihanAkter03/Online-Offline-Budget-Trackers
 
-Deplyed App URL : https://serene-anchorage-87970.herokuapp.com/
+Deplyed App URL : https://glacial-cove-35524.herokuapp.com/
 
 ![GNU License](https://img.shields.io/badge/license-GNU-green)
 
