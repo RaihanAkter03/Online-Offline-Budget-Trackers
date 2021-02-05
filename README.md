@@ -2,7 +2,7 @@
 
 GitHub Repository URL : https://github.com/RaihanAkter03/Online-Offline-Budget-Trackers
 
-Deplyed App URL : https://guarded-journey-05870.herokuapp.com/
+Deplyed App URL : https://serene-anchorage-87970.herokuapp.com/
 
 ![GNU License](https://img.shields.io/badge/license-GNU-green)
 
@@ -22,5 +22,5 @@ When brought back online:
 
 
 
-![last workout](budget1.PNG)
-![last workout](budget2.PNG)
+![application](budget1.PNG)
+![application](budget2.PNG)
